@@ -1,0 +1,3 @@
+# aiou.io
+
+AGI that is connected to the WWW, taking any kind of textual prompt to generate a unique website tailored to the user's needs. The AI understand the user's intent from a text-prompt and ad-hoc creates a website that is most beneficial for that prompt. For example, if the user asks "What is the weather in London?", the AI will create a website with the most up-to-date weather information for London. The website will also include additional information related to the query, such as a forecast for the next few days, a map of the city, and other relevant information. The AI will also be able to suggest related queries and topics to the user, allowing them to explore the topic further.
